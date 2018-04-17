@@ -1,0 +1,41 @@
+{
+ "name": "HeNZTutorial",
+  "short_name": "HeNZTutor",
+  "start_url": "https://henztutor.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "	Blog yang membahas tentang SEO, marketing, bisnis, info dan tutorial.",
+ "icons": [
+  {
+   "src": "https://4.bp.blogspot.com/-hf-fNFz2pnQ/WseHllYMDaI/AAAAAAAAAc0/BVIK9anFEJ8h1ImKU_MQAUbH5VLqFdV5gCLcBGAs/s36/android-icon-192x192.png",
+   "sizes": "36x36",
+   "type": "image/png",
+  },
+  {
+   "src": "https://4.bp.blogspot.com/-hf-fNFz2pnQ/WseHllYMDaI/AAAAAAAAAc0/BVIK9anFEJ8h1ImKU_MQAUbH5VLqFdV5gCLcBGAs/s48/android-icon-192x192.png",
+   "sizes": "48x48",
+   "type": "image/png",
+  },
+  {
+   "src": "https://4.bp.blogspot.com/-hf-fNFz2pnQ/WseHllYMDaI/AAAAAAAAAc0/BVIK9anFEJ8h1ImKU_MQAUbH5VLqFdV5gCLcBGAs/s72/android-icon-192x192.png",
+   "sizes": "72x72",
+   "type": "image/png",
+  },
+  {
+   "src": "https://4.bp.blogspot.com/-hf-fNFz2pnQ/WseHllYMDaI/AAAAAAAAAc0/BVIK9anFEJ8h1ImKU_MQAUbH5VLqFdV5gCLcBGAs/s96/android-icon-192x192.png",
+   "sizes": "96x96",
+   "type": "image/png",
+  },
+  {
+   "src": "https://4.bp.blogspot.com/-hf-fNFz2pnQ/WseHllYMDaI/AAAAAAAAAc0/BVIK9anFEJ8h1ImKU_MQAUbH5VLqFdV5gCLcBGAs/s144/android-icon-192x192.png",
+   "sizes": "144x144",
+   "type": "image/png",
+  },
+  {
+   "src": "https://4.bp.blogspot.com/-hf-fNFz2pnQ/WseHllYMDaI/AAAAAAAAAc0/BVIK9anFEJ8h1ImKU_MQAUbH5VLqFdV5gCLcBGAs/s192/android-icon-192x192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+  }
+ ]
+}
