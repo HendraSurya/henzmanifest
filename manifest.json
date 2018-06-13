@@ -1,13 +1,12 @@
 {
  "name": "HeNZTutorial",
-  "short_name": "HeNZTutor",
+  "short_name": "HT",
   "start_url": "https://henztutor.blogspot.com/",
   "display": "standalone",
   "background_color": "#fff",
-  "theme_color": "#fff",
-  "description": "	Blog yang membahas tentang SEO, marketing, bisnis, info dan tutorial.",
- "icons": [
-  {
+  "theme_color": "#00fff2",
+  "description": "Blog yang membahas tentang SEO, marketing, bisnis, info dan tutorial.",
+ "icons": [{
    "src": "https://4.bp.blogspot.com/-hf-fNFz2pnQ/WseHllYMDaI/AAAAAAAAAc0/BVIK9anFEJ8h1ImKU_MQAUbH5VLqFdV5gCLcBGAs/s36/android-icon-192x192.png",
    "sizes": "36x36",
    "type": "image/png",
