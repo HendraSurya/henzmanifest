@@ -4,7 +4,7 @@
   "start_url": "https://www.hendrasurya.com/",
   "display": "standalone",
   "background_color": "#fff",
-  "theme_color": "#00fff2",
+  "theme_color": "#EAEAEA",
   "description": "Blog yang membahas tentang SEO, marketing, bisnis, info dan tutorial.",
  "icons": [{
    "src": "https://4.bp.blogspot.com/-hf-fNFz2pnQ/WseHllYMDaI/AAAAAAAAAc0/BVIK9anFEJ8h1ImKU_MQAUbH5VLqFdV5gCLcBGAs/s36/android-icon-192x192.png",
