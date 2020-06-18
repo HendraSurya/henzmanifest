@@ -1,11 +1,11 @@
 
 {
-  "name": "HendraSurya.COM",
+  "name": "HendraSurya",
   "short_name": "HS",
   "start_url": "https://www.hendrasurya.com/",
   "display": "standalone",
   "background_color": "#fff",
-  "theme_color": "#EAEAEA",
+  "theme_color": "#01579B",
   "description": "Blog yang berisi tentang internet,info menarik, tips dan trik, marketing, blogging, seo, desain, bisnis online, dan tempat berbagi ilmu",
   "icons": [{
     "src": "https://3.bp.blogspot.com/-De-1Iix_hh8/Wyt1E4BYXZI/AAAAAAAAA88/lIvt-ZWahCA6yXMrIbYTWB5kQlMFZmCWACLcBGAs/s48/hendrasurya.com.png",
